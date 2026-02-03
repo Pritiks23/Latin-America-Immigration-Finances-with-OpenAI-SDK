@@ -1,3 +1,5 @@
+<img width="728" height="400" alt="image" src="https://github.com/user-attachments/assets/6979869d-0d72-46e0-bf23-b2a77b4c350c" />
+
 # Latin-America-Immigration-Finances-with-OpenAI-SDK
 
 This project uses OpenAI SDK + multi-agents with handoffs
